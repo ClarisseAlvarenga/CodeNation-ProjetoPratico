@@ -1,10 +1,10 @@
 # CodeNation-ProjetoPratico
 ## Escopo do Projeto:
-###Objetivo
+### Objetivo
 
 O objetivo deste produto é fornecer um serviço automatizado que recomenda leads para um usuário dado sua atual lista de clientes (Portfólio).
 
-###Contextualização
+### Contextualização
 
 Algumas empresas gostariam de saber quem são as demais empresas em um determinado mercado (população) que tem maior probabilidade se tornarem seus próximos clientes. Ou seja, a sua solução deve encontrar no mercado quem são os leads mais aderentes dado as características dos clientes presentes no portfólio do usuário.
 
@@ -14,7 +14,7 @@ Além disso, sua solução deve ser agnóstica ao usuário. Qualquer usuário co
 
 Para o desafio, deverão ser consideradas as seguintes bases:
 
-###Mercado:
+### Mercado:
 
 Base com informações sobre as empresas do Mercado a ser considerado. Portfolio 1: Ids dos clientes da empresa 1 Portfolio 2: Ids dos clientes da empresa 2 Portfolio 3: Ids dos clientes da empresa 3
 
@@ -34,11 +34,11 @@ https://codenation-challenges.s3-us-west-1.amazonaws.com/ml-leads/estaticos_port
 
 As bases de portfólio poderão ser utilizadas para testar a aderência da solução. Além disso, se a equipe desejar, poderá simular portfólios por meio de amostragens no mercado.
 
-###Dicionário de variáveis
+### Dicionário de variáveis
 
 https://s3-us-west-1.amazonaws.com/codenation-challenges/ml-leads/features_dictionary.pdf
 
-###Requisitos técnicos obrigatórios
+### Requisitos técnicos obrigatórios
 
 Utilizar técnicas de data science e machine learning para desenvolver o projeto; Apresentar o desenvolvimento e outputs do modelo em um Jupyter Notebook ou outra tecnologia de apresentação de Output de modelos de Machine Learning; A análise deve considerar os seguintes pontos: análise exploratória dos dados, tratamento dos dados, avaliação de algoritmos, treinamento do modelo, avaliação de performance do modelo e visualização dos resultados; Para a apresentação do projeto, o tempo entre o treinamento do modelo e o output deve ser menor que 20 min.
 
